@@ -1,11 +1,22 @@
 # Documentation
 The following CSS styles can be used to create Twitter-style elements:
 
-:root: Defines the primary color used throughout the webpage.
-body: Applies a common font family to the whole document.
-.button: Style for buttons.
-.input-field: Style for input fields.
-.avatar: Style for user avatars.
-.text: Style for normal text.
-.link: Style for links.
-.list: Style for lists.
+# Button
+This sample HTML code can be used to make a button.
+<button class="button">Button Text</button>
+
+# Image
+This sample HTML code can be used to make an image/avatar
+<img src="avatar.jpg" alt="User Avatar" class="avatar">
+
+# List
+This sample HTML code can be used to make a list.
+<ul class="list">
+  <li>First item</li>
+  <li>Second item</li>
+  <li>Third item</li>
+</ul>
+
+# Text
+This sample HTML code can be used to make a piece of text.
+<p class="text">my name is skyler white yo.</p>
